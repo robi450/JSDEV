@@ -1,0 +1,1 @@
+import "./lost_fortune_40.js";
